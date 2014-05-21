@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html, body{margin:0px; padding:0px;}
+
+#header{width:994px; margin:0px auto; height:81px; background-image:url(images/header.png); background-repeat:repeat;}
+#biolalink{ float:left; width:398px; height:59px;}
+#biolalogo{ float:right; width:336px; height:61px;}
+
+.btn a{display:block; width:100%; height:100%;}
